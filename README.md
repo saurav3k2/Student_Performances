@@ -1,7 +1,7 @@
 ## END TO END MACHINE LEARNING PROJECT
 
 
-# EDA_of_Student_Performance
+#Student_Performance
 1. Problem Statement 
 
 - This project understand how the studnet's performance (test score) is affected by other variable such as gender , Ethnicity , parental level of education , lunch and test preparation  course .
